@@ -45,7 +45,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/c-cli-toolkit.git
+git clone https://github.com/vsroshan/c-cli-toolkit.git
 
 Enter the project directory:
 
